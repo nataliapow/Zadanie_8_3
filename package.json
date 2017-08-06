@@ -1,0 +1,23 @@
+{
+  "name": "zadanie-8-3",
+  "version": "1.0.0",
+  "description": "grunt",
+  "main": "index.js",
+  "scripts": {
+    "test": "kodilla-js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "grunt"
+  ],
+  "author": "Natalia",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-sass": "^2.0.0"
+  }
+}
